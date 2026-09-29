@@ -1,0 +1,9 @@
+# Farshad Ghanbari — Iran SOCKS5 Method
+.DS_Store
+.env
+*.log
+
+.idea/
+guide.html
+guide.pdf
+tmp/
